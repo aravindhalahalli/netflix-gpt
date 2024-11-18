@@ -15,3 +15,7 @@
 -   Browse (Not LoggedIn)
     -   signIn / signUp Page
     -   redirect to Browse page
+-   Netflix GPT
+    -   Search Bar
+    -   Movie Suggestions
+    
