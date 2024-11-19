@@ -1,7 +1,16 @@
 # Netflix GPT
  -  create-react-app
- -  tailwind configure to project
-
+ -  Tailwind configure to project
+ -  Header
+ -  Routing apps
+ -  Login Form
+ -  Signup Form
+ -  Form validation
+ -  useRef Hook handling
+ -  Firebase setup
+ -  App deployment to production
+ -  Create an signup an user in firebase
+ 
  # Features to build
  - Browse (LoggedIn)
     -   Header
