@@ -10,6 +10,10 @@
  -  Firebase setup
  -  App deployment to production
  -  Create an signup an user in firebase
+ -  Completed Sigin user
+ -  Create userReducer with redux (Redux toolkit setup)
+ -  Implemented signout
+ -  Update Profile
  
  # Features to build
  - Browse (LoggedIn)
