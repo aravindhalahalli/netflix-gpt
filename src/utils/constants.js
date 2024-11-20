@@ -5,3 +5,11 @@ export const BG_URL =
 
 export const PHOTO_URL =
   "https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png";
+
+export const API_OPTIONS = {
+  method: "GET",
+  headers: {
+    accept: "application/json",
+    Authorization: `Bearer ${process.env.REACT_APP_API_ACCESS_TOKEN}`,
+  },
+};
